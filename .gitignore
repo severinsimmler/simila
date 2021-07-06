@@ -32,3 +32,4 @@ dist
 __minitage__*
 src
 MANIFEST
+.python-version
