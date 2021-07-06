@@ -33,3 +33,4 @@ __minitage__*
 src
 MANIFEST
 .python-version
+.env
